@@ -1,0 +1,589 @@
+{
+  "club": "Estudiantes de La Plata",
+  "torneo": "Copa Libertadores 2026",
+  "estado_torneo": {
+    "fase_de_grupos": "2° del Grupo A (9 pts), detrás de Flamengo",
+    "octavos": "vs Universidad Católica: 1-1 (L) y 3-0 (V)",
+    "cuartos": "vs Corinthians: 1-1 (L) y 1-0 (V)",
+    "semifinal": "vs Flamengo: ida 0-0 (15/10/2026, La Plata); vuelta el 22/10/2026 en el Maracaná"
+  },
+  "estadio": "Estadio Jorge Luis Hirschi (UNO), La Plata",
+  "datos_al": "2026-10-22",
+  "presidente": {
+    "nombre": "Juan Sebastián Verón",
+    "apodo": "La Brujita",
+    "cargo": "Presidente",
+    "nota_mandato": "Presidió entre 2014 y 2021 (reelecto en 2017); fue vicepresidente y volvió a la presidencia en abril de 2024 (tercer mandato).",
+    "vicepresidentes": [
+      "Martín Gorostegui",
+      "Pascual Caiella",
+      "Christian Spagnolo"
+    ]
+  },
+  "director_deportivo": {
+    "nombre": "Marcos Angeleri"
+  },
+  "cuerpo_tecnico": {
+    "director_tecnico": {
+      "nombre": "Alexander Medina",
+      "apodo": "Cacique",
+      "nacionalidad": "Uruguay",
+      "asumio": "2026-02-23",
+      "contrato_hasta": "diciembre de 2026",
+      "reemplazo_a": "Eduardo Domínguez"
+    },
+    "ayudantes_de_campo": [
+      "Fernando Machado",
+      "Maximiliano Dornell"
+    ],
+    "preparador_fisico": "Bruno Militano"
+  },
+  "plantel_actual": [
+    {
+      "dorsal": 1,
+      "nombre": "Fabricio Iacovich",
+      "posicion": "arquero",
+      "edad": 24,
+      "altura_m": 1.98,
+      "peso_kg": 92,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 12,
+      "nombre": "Rodrigo Borzone",
+      "posicion": "arquero",
+      "edad": 22,
+      "altura_m": 1.91,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 16,
+      "nombre": "Fernando Muslera",
+      "posicion": "arquero",
+      "edad": 40,
+      "altura_m": 1.91,
+      "peso_kg": 83,
+      "nacionalidad": "Uruguay",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 30,
+      "nombre": "Tiziano Van Der Tuin",
+      "posicion": "arquero",
+      "edad": 20,
+      "altura_m": 1.91,
+      "peso_kg": 83,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 3,
+      "nombre": "Máximo Desábato",
+      "posicion": "defensor",
+      "edad": 21,
+      "altura_m": 1.91,
+      "peso_kg": 83,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 4,
+      "nombre": "Santiago Núñez",
+      "posicion": "defensor",
+      "edad": 26,
+      "altura_m": 1.88,
+      "peso_kg": 87,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 5,
+      "nombre": "Marcos Rojo",
+      "posicion": "defensor",
+      "edad": 36,
+      "altura_m": 1.85,
+      "peso_kg": 82,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 13,
+      "nombre": "Gastón Benedetti",
+      "posicion": "defensor",
+      "edad": 25,
+      "altura_m": 1.75,
+      "peso_kg": 68,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 14,
+      "nombre": "Leandro González Pírez",
+      "posicion": "defensor",
+      "edad": 34,
+      "altura_m": 1.85,
+      "peso_kg": 88,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 15,
+      "nombre": "Santiago Arzamendia",
+      "posicion": "defensor",
+      "edad": 28,
+      "altura_m": 1.73,
+      "peso_kg": 72,
+      "nacionalidad": "Paraguay",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 20,
+      "nombre": "Eric Meza",
+      "posicion": "defensor",
+      "edad": 27,
+      "altura_m": 1.75,
+      "peso_kg": 72,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 24,
+      "nombre": "Tomás Palacios",
+      "posicion": "defensor",
+      "edad": 23,
+      "altura_m": 1.96,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 26,
+      "nombre": "Ramiro Funes Mori",
+      "posicion": "defensor",
+      "edad": 35,
+      "altura_m": 1.88,
+      "peso_kg": 83,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 33,
+      "nombre": "Faustino Messina",
+      "posicion": "defensor",
+      "edad": 20,
+      "altura_m": 1.83,
+      "peso_kg": 73,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 35,
+      "nombre": "Valente Pierani",
+      "posicion": "defensor",
+      "edad": 20,
+      "altura_m": 1.88,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 36,
+      "nombre": "Joaquín Pereyra",
+      "posicion": "defensor",
+      "edad": 27,
+      "altura_m": 1.8,
+      "peso_kg": 73,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 37,
+      "nombre": "Matías Magdaleno",
+      "posicion": "defensor",
+      "edad": 19,
+      "altura_m": 1.73,
+      "peso_kg": 68,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 40,
+      "nombre": "Eros Mancuso",
+      "posicion": "defensor",
+      "edad": 27,
+      "altura_m": 1.7,
+      "peso_kg": 73,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 45,
+      "nombre": "Jorge Nivar Georgieff",
+      "posicion": "defensor",
+      "edad": null,
+      "altura_m": null,
+      "peso_kg": null,
+      "nacionalidad": null,
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 7,
+      "nombre": "José Sosa",
+      "posicion": "mediocampista",
+      "edad": 41,
+      "altura_m": 1.8,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 8,
+      "nombre": "Gabriel Neves",
+      "posicion": "mediocampista",
+      "edad": 29,
+      "altura_m": 1.7,
+      "peso_kg": 68,
+      "nacionalidad": "Uruguay",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 10,
+      "nombre": "Tiago Palacios",
+      "posicion": "mediocampista",
+      "edad": 25,
+      "altura_m": 1.68,
+      "peso_kg": 66,
+      "nacionalidad": "Uruguay",
+      "goles_libertadores_2026": 3
+    },
+    {
+      "dorsal": 21,
+      "nombre": "Ezequiel Piovi",
+      "posicion": "mediocampista",
+      "edad": 34,
+      "altura_m": 1.7,
+      "peso_kg": 71,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 22,
+      "nombre": "Alexis Castro",
+      "posicion": "mediocampista",
+      "edad": 32,
+      "altura_m": 1.8,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 2
+    },
+    {
+      "dorsal": 25,
+      "nombre": "Ciro Spalletta",
+      "posicion": "mediocampista",
+      "edad": 21,
+      "altura_m": 1.73,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 31,
+      "nombre": "Baltasar Rodríguez",
+      "posicion": "mediocampista",
+      "edad": 23,
+      "altura_m": 1.73,
+      "peso_kg": 63,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 34,
+      "nombre": "Miguel Monsalve",
+      "posicion": "mediocampista",
+      "edad": 22,
+      "altura_m": 1.78,
+      "peso_kg": 73,
+      "nacionalidad": "Colombia",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 34,
+      "nombre": "Thiago González",
+      "posicion": "mediocampista",
+      "edad": 19,
+      "altura_m": 1.73,
+      "peso_kg": 68,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 38,
+      "nombre": "Franco Basualdo",
+      "posicion": "mediocampista",
+      "edad": 19,
+      "altura_m": 1.7,
+      "peso_kg": 59,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 39,
+      "nombre": "Jalil Elías",
+      "posicion": "mediocampista",
+      "edad": 30,
+      "altura_m": 1.73,
+      "peso_kg": 73,
+      "nacionalidad": "Siria",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 46,
+      "nombre": "Benjamín Maliani",
+      "posicion": "mediocampista",
+      "edad": 20,
+      "altura_m": 1.85,
+      "peso_kg": 81,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 48,
+      "nombre": "Axel Atum",
+      "posicion": "mediocampista",
+      "edad": 20,
+      "altura_m": 1.75,
+      "peso_kg": 66,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 50,
+      "nombre": "Agustín Traina",
+      "posicion": "mediocampista",
+      "edad": 19,
+      "altura_m": 1.83,
+      "peso_kg": 76,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 51,
+      "nombre": "Bautista Molinari",
+      "posicion": "mediocampista",
+      "edad": 20,
+      "altura_m": 1.78,
+      "peso_kg": 76,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 52,
+      "nombre": "Bautista Kociubinski",
+      "posicion": "mediocampista",
+      "edad": 25,
+      "altura_m": 1.8,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 53,
+      "nombre": "Leandro Luciano Alcaraz Torres",
+      "posicion": "mediocampista",
+      "edad": null,
+      "altura_m": null,
+      "peso_kg": null,
+      "nacionalidad": null,
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 9,
+      "nombre": "Guido Carrillo",
+      "posicion": "delantero",
+      "edad": 35,
+      "altura_m": 1.88,
+      "peso_kg": 86,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 3
+    },
+    {
+      "dorsal": 17,
+      "nombre": "Joaquín Tobio Burgos",
+      "posicion": "delantero",
+      "edad": 21,
+      "altura_m": 1.78,
+      "peso_kg": 73,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 1
+    },
+    {
+      "dorsal": 18,
+      "nombre": "Edwuin Cetré",
+      "posicion": "delantero",
+      "edad": 28,
+      "altura_m": 1.7,
+      "peso_kg": 77,
+      "nacionalidad": "Colombia",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 19,
+      "nombre": "Adolfo Gaich",
+      "posicion": "delantero",
+      "edad": 27,
+      "altura_m": 1.91,
+      "peso_kg": 97,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 23,
+      "nombre": "Franco Domínguez",
+      "posicion": "delantero",
+      "edad": 19,
+      "altura_m": 1.83,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 27,
+      "nombre": "Lucas Alario",
+      "posicion": "delantero",
+      "edad": 34,
+      "altura_m": 1.83,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 28,
+      "nombre": "Brian Aguirre",
+      "posicion": "delantero",
+      "edad": 23,
+      "altura_m": 1.75,
+      "peso_kg": 68,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 29,
+      "nombre": "Fabricio Pérez",
+      "posicion": "delantero",
+      "edad": 20,
+      "altura_m": 1.78,
+      "peso_kg": 68,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 32,
+      "nombre": "Joaquín Correa",
+      "posicion": "delantero",
+      "edad": 32,
+      "altura_m": 1.88,
+      "peso_kg": 73,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 1
+    },
+    {
+      "dorsal": 41,
+      "nombre": "Benjamín Sagues",
+      "posicion": "delantero",
+      "edad": 19,
+      "altura_m": 1.8,
+      "peso_kg": 71,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 43,
+      "nombre": "Santino Crego",
+      "posicion": "delantero",
+      "edad": 18,
+      "altura_m": 1.8,
+      "peso_kg": 77,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 44,
+      "nombre": "Juan Fernández Soler",
+      "posicion": "delantero",
+      "edad": 20,
+      "altura_m": 1.8,
+      "peso_kg": 76,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 47,
+      "nombre": "Enzo Agustín Sanabria",
+      "posicion": "delantero",
+      "edad": null,
+      "altura_m": null,
+      "peso_kg": null,
+      "nacionalidad": null,
+      "goles_libertadores_2026": 0
+    },
+    {
+      "dorsal": 49,
+      "nombre": "Francisco Silvetti",
+      "posicion": "delantero",
+      "edad": 18,
+      "altura_m": 1.75,
+      "peso_kg": 78,
+      "nacionalidad": "Argentina",
+      "goles_libertadores_2026": 0
+    }
+  ],
+  "otros_jugadores_en_la_lista_o_que_ya_no_figuran": [
+    {
+      "nombre": "Mikel Amondarain",
+      "posicion": "mediocampista",
+      "goles_libertadores_2026": 1,
+      "nota": "Convirtió el gol 1-0 ante Independiente Medellín (fecha 6). No figura en el plantel actual de ESPN."
+    },
+    {
+      "nombre": "Facundo Farías",
+      "posicion": "delantero",
+      "goles_libertadores_2026": 1,
+      "nota": "Convirtió ante Cusco FC (fecha 2). No figura en el plantel actual de ESPN."
+    },
+    {
+      "nombre": "Lucas Cornejo",
+      "posicion": "mediocampista",
+      "goles_libertadores_2026": 0,
+      "nota": "Figuraba en la lista de CONMEBOL (dorsal 39). No figura en el plantel actual de ESPN."
+    },
+    {
+      "nombre": "Galo Galarza",
+      "posicion": "mediocampista",
+      "goles_libertadores_2026": 0,
+      "nota": "Figuraba en el plantel de pretemporada. No figura en el plantel actual de ESPN."
+    },
+    {
+      "nombre": "Cristian Medina",
+      "posicion": "mediocampista",
+      "goles_libertadores_2026": 0,
+      "nota": "Figuraba en el plantel de pretemporada. No figura en el plantel actual de ESPN."
+    },
+    {
+      "nombre": "Facundo Rodríguez",
+      "posicion": "defensor",
+      "goles_libertadores_2026": 0,
+      "nota": "Figuraba en el plantel de pretemporada. No figura en el plantel actual de ESPN."
+    }
+  ],
+  "notas": [
+    "Base del plantel: página de ESPN Argentina (Libertadores 2026). Edad, altura y peso son los que muestra ESPN a octubre de 2026.",
+    "Los goles de la Libertadores salen de las crónicas de CONMEBOL hasta cuartos de final; la semifinal de ida terminó 0-0.",
+    "Hay dos jugadores con dorsal 34 en ESPN (Monsalve y Thiago González); se respetó la fuente.",
+    "CONMEBOL lista a Eric Meza, Santiago Arzamendia y Tiago Palacios como delanteros; ESPN los clasifica como defensores (Meza, Arzamendia) y mediocampista (T. Palacios). Se usó ESPN.",
+    "Alexis Castro y Joaquín Correa aparecen en las crónicas y en ESPN; Correa no está en la lista de CONMEBOL de septiembre.",
+    "Campos en null = dato no disponible en la fuente."
+  ]
+}
